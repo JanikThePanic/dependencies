@@ -1,19 +1,19 @@
 {
 	"work": [
 		{
-			"title": "test",
+			"title": "c2i2_COOL_EPIC",
 			"date": "2014-03-12T13:37:27+00:00",
 			"tags": ["cool", "epic"],
 			"coolness": 2,
 			"images": [
 				"https://ideascdn.lego.com/media/generate/lego_ci/6887b1d9-8f07-43dd-8731-ab8a1873a930/resize:1600:900",
-				"https://ideascdn.lego.com/media/generate/lego_ci/6887b1d9-8f07-43dd-8731-ab8a1873a930/resize:1600:900"
+				"https://www.publicdomainpictures.net/pictures/320000/velka/background-image.png"
 			],
 			"software": "onshape",
 			"description": "my friends have left me"
 		},
 		{
-			"title": "test2",
+			"title": "c1i3_COOL_EPIC",
 			"date": "2015-03-12T13:37:27+00:00",
 			"tags": ["cool", "epic"],
 			"coolness": 1,
@@ -26,7 +26,7 @@
 			"description": "efwerfw"
 		},
 		{
-			"title": "test3",
+			"title": "c7i1_COOL_EPIC",
 			"date": "2016-03-12T13:37:27+00:00",
 			"tags": ["cool", "epic"],
 			"coolness": 7,
@@ -37,8 +37,8 @@
 			"description": "342fgb"
 		},
 		{
-			"title": "test3123",
-			"date": "2018-03-12T13:37:27+00:00",
+			"title": "c100i5_EW_EPIC",
+			"date": "2021-03-12T13:37:27+00:00",
 			"tags": ["ew", "epic"],
 			"coolness": 100,
 			"images": [
@@ -52,8 +52,8 @@
 			"description": "i do not like men"
 		},
 		{
-			"title": "test3123",
-			"date": "2018-03-12T13:37:27+00:00",
+			"title": "c100idk_EW_EPIC",
+			"date": "2018-04-12T13:37:27+00:00",
 			"tags": ["ew", "epic"],
 			"coolness": 100,
 			"images": [
@@ -75,7 +75,7 @@
 			"description": "i do not like men"
 		},
 		{
-			"title": "test3123",
+			"title": "c100i2_EW_EPIC",
 			"date": "2018-03-12T13:37:27+00:00",
 			"tags": ["ew", "epic"],
 			"coolness": 100,
@@ -85,6 +85,18 @@
 			],
 			"software": "the star",
 			"description": "i do not like men"
+		},
+		{
+			"title": "realistic work display extra",
+			"date": "2021-08-23T13:37:27+00:00",
+			"tags": ["covid", "janik", "cool"],
+			"coolness": 13,
+			"images": [
+				"https://2702rebels.com/wp-content/uploads/2019/12/46971957574_4b526c67e4_o-scaled-1920x1080.jpg",
+				"https://2702rebels.com/wp-content/uploads/2019/12/crop-0-0-778-959-0-robotuwu.png"
+			],
+			"software": "my skills",
+			"description": "this is meant to be a realistc demo of an entry used in the work tab"
 		}
 	]
 }
