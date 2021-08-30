@@ -19,7 +19,7 @@
 			"title": "McDonald's",
 			"date": "2021-03-15T17:30:23.000Z",
 			"tags": ["Onshape", "Made for School"],
-			"coolness": 51,
+			"coolness": 54,
 			"images": ["mc_shaded.png", "mc_lines.png", "mc_og.jpg"],
 			"software": "Onshape",
 			"description": "Mini golf course modeled after the first McDonald's."
@@ -68,6 +68,51 @@
 			],
 			"software": "Onshape",
 			"description": "Cool little figurine robot modelled after some Google Images."
+		},
+		{
+			"title": "CD",
+			"date": "2020-03-11T17:30:23.000Z",
+			"tags": ["Photoshop", "Illustrator", "Made for School"],
+			"coolness": 53,
+			"images": [
+				"cd_1_3.jpg",
+				"cd_1_1.jpg",
+				"cd_1_2.jpg",
+				"cd_1_4.jpg",
+				"cd_1_5.jpg"
+			],
+			"software": "Photoshop & Illustrator",
+			"description": "Communication Technology summative."
+		},
+		{
+			"title": "CD",
+			"date": "2020-03-11T17:30:23.000Z",
+			"tags": ["Photoshop", "Illustrator", "Made for School"],
+			"coolness": 51,
+			"images": [
+				"cd_2_3.jpg",
+				"cd_2_1.jpg",
+				"cd_2_2.jpg",
+				"cd_2_4.jpg",
+				"cd_2_5.jpg"
+			],
+			"software": "Photoshop & Illustrator",
+			"description": "Communication Technology summative."
+		},
+		{
+			"title": "CD",
+			"date": "2020-03-11T17:30:23.000Z",
+			"tags": ["Photoshop", "Illustrator", "Made for School"],
+			"coolness": 52,
+			"images": [
+				"cd_3_3.jpg",
+				"cd_3_1.jpg",
+				"cd_3_2.jpg",
+				"cd_3_4.jpg",
+				"cd_3_5.jpg"
+			],
+			"software": "Photoshop & Illustrator",
+			"description": "Communication Technology summative."
 		}
 	]
 }
