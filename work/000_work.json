@@ -113,6 +113,15 @@
 			],
 			"software": "Photoshop & Illustrator",
 			"description": "Communication Technology summative."
+		},
+		{
+			"title": "Me",
+			"date": "2019-07-26T17:30:23.000Z",
+			"tags": ["Photoshop", "Illustrator"],
+			"coolness": 43,
+			"images": ["me_ps.jpg", "me_ill.jpg", "me_mc.jpg"],
+			"software": "Photoshop & Illustrator",
+			"description": "Some profile pictures I made for myself. The Minecraft one looks pretty good and was partially made in Blender."
 		}
 	]
 }
