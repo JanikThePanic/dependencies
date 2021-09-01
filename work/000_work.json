@@ -122,6 +122,21 @@
 			"images": ["me_ps.jpg", "me_ill.jpg", "me_mc.jpg"],
 			"software": "Photoshop & Illustrator",
 			"description": "Some profile pictures I made for myself. The Minecraft one looks pretty good and was partially made in Blender."
+		},
+		{
+			"title": "Cat Feeder",
+			"date": "2021-05-22T17:30:23.000Z",
+			"tags": ["Python", "SolidWorks", "C++"],
+			"coolness": 25,
+			"images": [
+				"jamv_iso.jpg",
+				"jamv_lid.jpg",
+				"jamv_render.png",
+				"jamv_irl.jpg"
+			],
+			"software": "Real Life",
+			"description": "Entry for the JAMHacksV Hackathon, in which we won the Best Hardware award!",
+			"link": "https://github.com/JanikThePanic/JAMHacksV_CatFeeder"
 		}
 	]
 }
