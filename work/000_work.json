@@ -137,6 +137,21 @@
 			"software": "Real Life",
 			"description": "Entry for the JAMHacksV Hackathon, in which we won the Best Hardware award!",
 			"link": "https://github.com/JanikThePanic/JAMHacksV_CatFeeder"
+		},
+		{
+			"title": "Pineapple",
+			"date": "2019-04-03T17:30:23.000Z",
+			"tags": ["Illustrator", "Made for School"],
+			"coolness": 44,
+			"images": [
+				"pn_logo.png",
+				"pn_text.png",
+				"pn_macro.png",
+				"pn_rc_ulti.png",
+				"pn_pens.jpg"
+			],
+			"software": "Illustrator",
+			"description": "I like pineapples, so I made a logo of one that I just slap on anything I make now."
 		}
 	]
 }
