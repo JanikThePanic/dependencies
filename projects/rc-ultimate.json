@@ -17,7 +17,7 @@
 			},
 			{
 				"text": "With that, I created a simple yet elegant solution to this problem, a universal remote control that can easily connect to any of my future projects. Bringing forward, the RC Ultimate. The RC Ultimate is the first design in a possible series of universal project controllers. Using the capabilities and size offered by the Arduino Nano, along with the range and ease of the nRF24L01, the RC Ultimate allows for easy implementation and set-up on the receiving end.",
-				"splitter": ["render_no_top.png", "render_with_top.png"],
+				"splitter": ["render_with_top.png", "render_no_top.png"],
 				"caption": "Slide the Slider to reveal the inside"
 			},
 			{
