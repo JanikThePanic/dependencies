@@ -47,7 +47,8 @@
 				]
 			},
 			{
-				"image": "pcb_irl.jpg"
+				"image": "pcb_irl.jpg",
+				"caption": "Very nice PCB"
 			},
 			{
 				"text": "The circuit was connected via THT on a 2 layer 1.6mm PCB designed on EasyEDA and ordered through JLCPCB."
