@@ -152,6 +152,23 @@
 			],
 			"software": "Illustrator",
 			"description": "I like pineapples, so I made a logo of one that I just slap on anything I make now."
+		},
+		{
+			"title": "laika",
+			"date": "2021-06-14T17:30:23.000Z",
+			"tags": ["SolidWorks", "C++"],
+			"coolness": 54,
+			"images": [
+				"laika_iso_render_new_case.png",
+				"laika_iso_render_old_case.png",
+				"laika_top_render.png",
+				"laika_leg_render.png",
+				"laika_irl_assem.jpg",
+				"laika_irl_table.jpg"
+			],
+			"software": "Real Life",
+			"description": "An unsuccessful attempt at a quadrupedal robot dog, similar to Boston Dynamics' Spot. was fun to learn from :D",
+			"link": "https://github.com/JanikThePanic/laika"
 		}
 	]
 }
