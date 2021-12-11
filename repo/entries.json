@@ -1,0 +1,130 @@
+{
+	"entries": [
+		{
+			"title": "Cylinder Generator",
+			"link": "https://www.bimba.com/Products-and-Cad/Actuators/Inch/Round-Line/Non-Repairable/Original-Line-Cylinder",
+			"description": "Generates CAD models of air cylinders",
+			"catagory": "CAD Design"
+		},
+		{
+			"title": "Gear Generator",
+			"link": "https://geargenerator.com/",
+			"description": "Generates CAD drawings of gears",
+			"catagory": "CAD Design"
+		},
+		{
+			"title": "Belt Calculator",
+			"link": "https://sdp-si.com/eStore/CenterDistanceDesigner",
+			"description": "Simple to use calculator to determine belt lengths and center to center distances",
+			"catagory": "Calculators"
+		},
+		{
+			"title": "Chain Calculator",
+			"link": "http://www.botlanta.org/converters/dale-calc/sprocket.html",
+			"description": "Simple to use calculator to determine chain links and center to center distances",
+			"catagory": "Calculators"
+		},
+		{
+			"title": "Chain Calculator",
+			"link": "https://www.rbracing-rsr.com/chainlength.html",
+			"description": "Less simple calculator to determine chain links and center to center distances",
+			"catagory": "Calculators"
+		},
+		{
+			"title": "Pulley Calculator",
+			"link": "https://www.daycounter.com/Calculators/Timing-Belt-Pulley-Design-Calculator/",
+			"description": "Calculates the number of teeth needed on timing belt pulleys",
+			"catagory": "Calculators"
+		},
+		{
+			"title": "Free Mockups",
+			"link": "https://mockups-design.com/",
+			"description": "Site filled with free product mockups",
+			"catagory": "Graphic Design"
+		},
+		{
+			"title": "Bamboo",
+			"link": "https://github.com/Aaron-Bird/bamboo",
+			"description": "A carousel widget. Written in JavaScript without third-party libraries",
+			"catagory": "Libraries | JS"
+		},
+		{
+			"title": "Lightbox",
+			"link": "https://lokeshdhakar.com/projects/lightbox2/",
+			"description": "Image to full-screen display library",
+			"catagory": "Libraries | JS"
+		},
+		{
+			"title": "List.js",
+			"link": "https://listjs.com/",
+			"description": "Library that adds search, sort, filters and flexibility to plain HTML lists or tables",
+			"catagory": "Libraries | JS"
+		},
+		{
+			"title": "Darken",
+			"link": "https://github.com/ColinEspinas/darken",
+			"description": "Dark mode made easy",
+			"catagory": "Libraries | JS"
+		},
+		{
+			"title": "IBM Model M",
+			"link": "https://www.pckeyboard.com/page/product/UNI0P4A",
+			"description": "IBM Model M Keyboard I will one day own",
+			"catagory": "Mechanical Keyboards"
+		},
+		{
+			"title": "GMK Dots GB",
+			"link": "https://novelkeys.xyz/products/gmk-dots-gb?variant=28541793599581",
+			"description": "Keycaps with just solid colour dots",
+			"catagory": "Mechanical Keyboards"
+		},
+		{
+			"title": "Funeral Music",
+			"link": "https://www.youtube.com/watch?v=zc6KUlXP--M",
+			"description": "Once all has passed, please, I beg you, play this at my funeral",
+			"catagory": "Other"
+		},
+		{
+			"title": "SLAM",
+			"link": "http://slam.flankers.net/",
+			"description": "Soundboard for CSGO, CS Source, and TF2",
+			"catagory": "Other"
+		},
+		{
+			"title": "Flat UI Colors",
+			"link": "https://flatuicolors.com/",
+			"catagory": "Graphic Design",
+			"description": "Website with good flat colours good for UI"
+		},
+		{
+			"title": "EasyEDA",
+			"link": "https://easyeda.com/",
+			"catagory": "Electronic",
+			"description": "Amazing PCB Design Environment"
+		},
+		{
+			"title": "Syllable Counter",
+			"link": "https://www.howmanysyllables.com/syllable_counter/",
+			"catagory": "Writing",
+			"description": "Most accurate and best syllable counter. My go-to."
+		},
+		{
+			"title": "ASCII Art Archive",
+			"link": "https://www.asciiart.eu/",
+			"catagory": "ASCII",
+			"description": "A large collection of ASCII art drawings and other related ASCII art pictures"
+		},
+		{
+			"title": "patorjk.com",
+			"link": "http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20",
+			"catagory": "ASCII",
+			"description": "Converts given text to ASCII art"
+		},
+		{
+			"title": "GT2 Gear Generator",
+			"link": "https://avtehnik.github.io/gt2-gear-genaretor/",
+			"catagory": "CAD Design",
+			"description": "Generates drawings for GT2 Gears"
+		}
+	]
+}
