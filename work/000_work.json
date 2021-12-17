@@ -169,6 +169,23 @@
 			"software": "Real Life",
 			"description": "An unsuccessful attempt at a quadrupedal robot dog, similar to Boston Dynamics' Spot. was fun to learn from :D",
 			"link": "https://github.com/JanikThePanic/laika"
+		},
+		{
+			"title": "Steering Wheel",
+			"date": "2021-12-6T17:30:23.000Z",
+			"tags": ["Onshape", "Made for School"],
+			"coolness": 53,
+			"images": [
+				"steer_button.png",
+				"steer_button_xray.png",
+				"steer_rando.png",
+				"steer_limit.png",
+				"steer_limit_xray.png",
+				"steer_base.png"
+			],
+			"software": "Onshape",
+			"description": "Steering wheel for BCI's Electric Car Club (will add photos if it gets made)",
+			"link": "https://cad.onshape.com/documents/2b9420dbb50606e212a779ea/"
 		}
 	]
 }
