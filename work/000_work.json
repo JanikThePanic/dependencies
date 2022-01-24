@@ -186,6 +186,24 @@
 			"software": "Onshape",
 			"description": "Steering wheel for BCI's Electric Car Club (will add photos if it gets made).",
 			"link": "https://cad.onshape.com/documents/2b9420dbb50606e212a779ea/"
-		}
+		},
+		{
+			"title": "Engine",
+			"date": "2021-12-30T17:00:35.000Z",
+			"tags": ["Onshape"],
+			"coolness": 66,
+			"images": [
+				"en_main_1.png",
+				"en_animateed.gif",
+				"en_main_2.png",
+				"en_main_3.png",
+				"en_crack_1.png",
+				"en_crack_2.png",
+				"en_crack_3.png",
+				"en_frame_1.png",
+				"en_frame_2.png"
+			],
+			"software": "Onshape",
+			"description": "Cool engine concept I liked, so I designed one (will add photos if it gets made)."
 	]
 }
