@@ -195,6 +195,10 @@
 			{
 				"heading": "Conclusion",
 				"text": "To summarize, I would call the project a success. Although not fully satisfied with the design of the physical controller, it has set the groundwork for any similar projects that may come afterwards. For example, if needed, I would like to create a smaller version in the style of a Nintendo Switch Controller, with a single 2D joystick and a minimal amount of buttons."
+			},
+			{
+				"heading": "NOTICE",
+				"text": "The power supply being two unregulated batteries causes power spikes leading to connection loss when multiple states of buttons/switches are changed simultaneously. I would recommend using a mobile battery pack to power the controller or adding a battery regulator."
 			}
 		]
 	}
