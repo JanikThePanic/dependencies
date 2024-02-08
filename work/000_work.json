@@ -1,6 +1,22 @@
 {
 	"work": [
 		{
+			"title": "Cow Cart",
+			"date": "2024-02-08T08:29:32+00:00",
+			"tags": ["Onshape", "Made for School"],
+			"coolness": 53,
+			"images": [
+				"cows_gif.gif",
+				"cows_1.png",
+				"cows_2.png",
+				"cows_3.png",
+				"cows_4.png",
+				"cows_drawing.png"
+			],
+			"software": "Onshape",
+			"description": "Art train cart concept assignment."
+		},
+		{
 			"title": "Weaponry",
 			"date": "2020-06-23T17:00:35.000Z",
 			"tags": ["Blender"],
